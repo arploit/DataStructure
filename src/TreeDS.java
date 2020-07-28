@@ -86,7 +86,7 @@ public class TreeDS {
         tree.traversal(Head);
 
 
-
+/*Preorder*/
 
     }
 
