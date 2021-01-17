@@ -1,0 +1,11 @@
+Data Structure
+
+Date 14 jan 2021
+Abstraction Data type : is an abstract of a data Struc. which provides only the interface to which a data must adhere to.
+                        The interface does not gives any specific details about how something should be implemented or in
+                        what progr. lang
+
+            Ads ----- Implementation (DS)
+       1. lIST ----- Dynamic Array , Linked list
+       2. Queue ----- (Linked List , Array , Stack ) based Queue
+       3. Map ----- Tree Map / Hash Map / Hash Table
